@@ -42,7 +42,7 @@ To get approval of the pull request much quicker and faster, (Follow Me)🚀
             <kbd><img src="https://avatars3.githubusercontent.com/adit2005?size=100" width="100px;" alt=""/>
         </a>
         <br />
-        <sub><b>Your Name</b></sub>
+        <sub><b>ADITYA SINGH CHAUHAN</b></sub>
     </td>
 </tr>
 
